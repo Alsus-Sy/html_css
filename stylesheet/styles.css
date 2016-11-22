@@ -43,3 +43,8 @@ html, body {
 .strong-emphasis {
   background: rgb(255, 200, 230);
 }
+
+.quotations {
+  background: rgb(200, 100, 50);
+  color: rgb(255, 200, 230);
+}
