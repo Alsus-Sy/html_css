@@ -1,0 +1,45 @@
+html, body {
+  padding: 0 10px;
+  margin: 0;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.heading-content {
+  height: 50px;
+  background: rgb(0, 0, 255);
+  text-align: center;
+}
+
+.padding {
+  padding: 2px 0 2px 5px;;
+}
+
+.heading-level {
+  background-color: rgb(255, 200, 150);
+}
+
+.paragraph {
+  background: rgb(255, 134, 250);
+  color: rgb(255, 255, 255);
+}
+
+.boldtext-italictext {
+  background: rgb(10, 200, 30);
+  color: rgb(255, 255, 255);
+}
+
+.superscrip-subscript {
+  background: rgb(255, 100, 50);
+}
+
+.linebreak-horizontalrule {
+  background: rgb(140, 100, 50);
+  color: rgb(255, 200, 230);
+}
+
+.strong-emphasis {
+  background: rgb(255, 200, 230);
+}
