@@ -48,3 +48,41 @@ html, body {
   background: rgb(200, 100, 50);
   color: rgb(255, 200, 230);
 }
+
+.abbreviations-acronyms {
+  background: rgb(13, 244, 230);
+}
+
+.citations-definitions {
+  background: rgb(34, 20, 244);
+  color: rgb(255, 255, 255);
+}
+
+.changetocontent {
+  background: rgb(255, 23, 150);
+  color: rgb(255, 255, 255);
+}
+
+.ordered-lists {
+  background: rgb(39, 200, 255);
+}
+
+.unordered-lists {
+  background: rgb(20, 200, 10);
+}
+
+.definition-lists {
+  background: rgb(233, 20, 100);
+}
+
+.email-links {
+  background: rgb(221, 233, 10);
+}
+
+.opening-links {
+  background: rgb(122, 223, 40);
+}
+
+.go-back-to-top {
+  background: rgb(22, 130, 50);
+}
